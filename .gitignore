@@ -1,2 +1,6 @@
 Platform_Android/unity3d/Library/
 Platform_Android/unity3d/Temp/
+Platform_Android/unity3d/Assembly-CSharp-vs.csproj
+Platform_Android/unity3d/Assembly-CSharp.csproj
+Platform_Android/unity3d/unity3d-csharp.sln
+Platform_Android/unity3d/unity3d.sln
